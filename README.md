@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fransco35
-- 👀 I’m a Web developer, MERN (MongoDB, Express, React, Node.js) stack specifically
-- 🌱 I’m currently learning PostgreSQL
-- 💞️ I’m available to collaborate on any Project that uses my stack and contributes positively to society
+- 👀 I’m a Fullstack MERN Engineer (MongoDB, Express, React, Node.js). I work mostly on the Frontend.
+- 💞️ I’m also familiar with other technologies such as TypeScript, Postgresql and others. 
+- I learn new technologies frequently
 
